@@ -1,0 +1,10 @@
+spring:
+   datasource:
+    username: root
+    password: Marvmurph0!
+    url: jdbc:mysql://localhost:3306/band
+
+logging:
+  level:
+    root: warn 
+    '[com.promineotech]': debug
